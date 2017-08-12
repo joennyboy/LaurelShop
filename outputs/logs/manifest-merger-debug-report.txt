@@ -1,0 +1,87 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:3:11-51
+		INJECTED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Etumusei\.android\build-cache\2a810337eb5b6a469b2abc33a8b2726c82b1c676\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Etumusei\.android\build-cache\74e8df055ac8f757e7696b2d97be65275f32bc5c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Etumusei\.android\build-cache\f948240ff22f368ad0bbe83dbd83a7d180871d87\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Etumusei\.android\build-cache\d30a2b84d95510b3d95ae4f3e1266f1dc0469d31\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Etumusei\.android\build-cache\d6a1f9dffe5f81810f5d53efef9fd4dc4df135da\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Etumusei\.android\build-cache\b704f1bfebeb6baddf526ad3010b08946c1ce7c4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Etumusei\.android\build-cache\7ce5870ce46fa43ac2b15fb6b1c45d6fbbd163b8\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Etumusei\.android\build-cache\c995d5064a4e7c0063f4d10377b37dfde52c802a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Etumusei\.android\build-cache\5732001f1076964863b0f5b323df84de2b7582d3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Etumusei\.android\build-cache\4d65f9f2193f2e288f060705fb6e6f8f6df9e40b\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.laurelshop.MainActivity
+ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Etumusei\.android\build-cache\2a810337eb5b6a469b2abc33a8b2726c82b1c676\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Etumusei\.android\build-cache\74e8df055ac8f757e7696b2d97be65275f32bc5c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Etumusei\.android\build-cache\f948240ff22f368ad0bbe83dbd83a7d180871d87\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Etumusei\.android\build-cache\d30a2b84d95510b3d95ae4f3e1266f1dc0469d31\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Etumusei\.android\build-cache\d6a1f9dffe5f81810f5d53efef9fd4dc4df135da\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Etumusei\.android\build-cache\b704f1bfebeb6baddf526ad3010b08946c1ce7c4\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Etumusei\.android\build-cache\7ce5870ce46fa43ac2b15fb6b1c45d6fbbd163b8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Etumusei\.android\build-cache\c995d5064a4e7c0063f4d10377b37dfde52c802a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Etumusei\.android\build-cache\5732001f1076964863b0f5b323df84de2b7582d3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Etumusei\.android\build-cache\4d65f9f2193f2e288f060705fb6e6f8f6df9e40b\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Etumusei\.android\build-cache\2a810337eb5b6a469b2abc33a8b2726c82b1c676\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Etumusei\Desktop\LaurelShop\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Etumusei\.android\build-cache\2a810337eb5b6a469b2abc33a8b2726c82b1c676\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Etumusei\.android\build-cache\74e8df055ac8f757e7696b2d97be65275f32bc5c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Etumusei\.android\build-cache\f948240ff22f368ad0bbe83dbd83a7d180871d87\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Etumusei\.android\build-cache\d30a2b84d95510b3d95ae4f3e1266f1dc0469d31\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Etumusei\.android\build-cache\d6a1f9dffe5f81810f5d53efef9fd4dc4df135da\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Etumusei\.android\build-cache\b704f1bfebeb6baddf526ad3010b08946c1ce7c4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Etumusei\.android\build-cache\7ce5870ce46fa43ac2b15fb6b1c45d6fbbd163b8\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Etumusei\.android\build-cache\c995d5064a4e7c0063f4d10377b37dfde52c802a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Etumusei\.android\build-cache\5732001f1076964863b0f5b323df84de2b7582d3\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Etumusei\.android\build-cache\2a810337eb5b6a469b2abc33a8b2726c82b1c676\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Etumusei\.android\build-cache\2a810337eb5b6a469b2abc33a8b2726c82b1c676\output\AndroidManifest.xml:26:9-47
